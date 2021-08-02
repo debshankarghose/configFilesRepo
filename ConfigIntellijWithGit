@@ -1,0 +1,8 @@
+	1. Install Github from Intellij marketplace
+	2. Go to intellij settings>Version Control>
+	3. Navigate to Git
+	4. Update the "Path to Git executable" where git is installed in your local machine. e.g. D:\ProgramFiles\Git\bin\git.exe
+	5. In the GitHub sub-directory, add your github account.
+	6. Go to Git tab and clone the repositories, by giving the git url and the directory in the below fields:
+	->URL : https://github.com/debshankarghose/JavaExamples
+	->Directory: D:\eclipse-workspace
